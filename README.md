@@ -1,0 +1,2 @@
+# Solução-singleton-adapter
+
