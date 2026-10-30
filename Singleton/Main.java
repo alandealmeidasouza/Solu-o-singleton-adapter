@@ -41,5 +41,7 @@ public class Main {
         System.out.println("Configuração 2: " + config2.getIdioma());
 
         System.out.println("Mesmo objeto? " + (config1 == config2));
+
+        //As duas variáveis possuem referências para o mesmo objeto.
     }
 }
